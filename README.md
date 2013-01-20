@@ -1,4 +1,4 @@
-# The Ooyala Game-off team
+# GameBoard
 
 It's gonna be great
 
