@@ -1,0 +1,25 @@
+{
+  "author": "",
+  "name": "game-off-2012",
+  "description": "Grow. Compete. Conquer.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ooyala-gameoff/game-off-2012",
+  "main": "./lib/game",
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.x",
+    "stitch": "0.3.x",
+    "underscore": "1.1.x"
+  },
+  "devDependencies": {
+    "coffee-script": "1.4.x"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ooyala-gameoff/game-off-2012.git"
+  }
+}
