@@ -1,4 +1,10 @@
-GameBoard
-=========
+# The Ooyala Game-off team
 
-A set of tools to quickly create an online board game.
+It's gonna be great
+
+
+# Development
+
+    npm install
+    npm install -g foreman nodemon
+    foreman start
