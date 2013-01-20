@@ -1,9 +1,9 @@
 {
   "author": "",
-  "name": "game-off-2012",
-  "description": "Grow. Compete. Conquer.",
+  "name": "GameBoard",
+  "description": "Making online board games fast and simple",
   "version": "0.0.1",
-  "homepage": "https://github.com/ooyala-gameoff/game-off-2012",
+  "homepage": "https://github.com/MattPasienski/GameBoard",
   "main": "./lib/game",
   "dependencies": {
     "ejs": "0.8.x",
@@ -20,6 +20,6 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/ooyala-gameoff/game-off-2012.git"
+    "url": "git://github.com/MattPasienski/GameBoard.git"
   }
 }
