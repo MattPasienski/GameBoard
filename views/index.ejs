@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Game-off 2012</title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <script src="/bundle.js"></script>
+  </head>
+  <body>
+    <div id="main">
+      <h1>canoply</h1>
+      <canvas id="canvas" width="800" height="800">Unsupported browser.</canvas>
+    </div>
+
+    <script>
+      var Game = require("game");
+      var game = new Game(document.getElementById("canvas"));
+      game.draw();
+    </script>
+  </body>
+</html>

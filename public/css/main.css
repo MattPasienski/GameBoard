@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: #EFEFEF;
+}
+
+#main {
+  width: 800px;
+  height: 100%;
+  margin: auto;
+  background: #FFFFFF;
+  padding: 0px 20px;
+}
+
+#main h1 {
+  font-family: Helvetica Neue;
+  color: lightgreen;
+  font-weight: 100;
+  font-size: 7.0em;
+  letter-spacing: -0.08em;
+  text-align: center;
+}
+
+#canvas {
+  border: 1px solid lightgray;
+}
